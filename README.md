@@ -2,6 +2,11 @@
 
 Simple setup of how to set up react from scratch
 
+```
+npm install
+npm run start
+```
+
 ## Eslint + Prettier Config
 
 ### Simple video tutorial
